@@ -1,0 +1,1 @@
+I am just try to solved the some problems of JavaScript form Hackerrank so if you want to solved this problem so visite this link :- https://www.hackerrank.com/challenges/js10-arrays/problem
